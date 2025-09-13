@@ -182,7 +182,7 @@ int main() {
     default: {
         printf("Opção inválida!");
         break;
-    }
+        }
     }
 
     return 0;
